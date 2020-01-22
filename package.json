@@ -1,0 +1,14 @@
+{
+  "name": "writefilesasync",
+  "version": "1.0.0",
+  "description": "Create a simple node.js app that runs the numbered tasks below. The app should run through all of its tasks one at a time in sequence when you run `node asyncTasks.js` in its parent directory. Before starting each task log `Starting task [taskNumber]` to the console, log `Finished task [taskNumber]` after the task is complete.",
+  "main": "WriteFilesAsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
